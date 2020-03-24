@@ -28,7 +28,8 @@ description: Joseph... but website form
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  #Blog:
+  #About Me: "aboutme"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
