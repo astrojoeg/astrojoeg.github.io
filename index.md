@@ -2,7 +2,9 @@
 layout: page
 title: Joseph Guidry (he/him/his)
 subtitle: yung Astronomer
-bigimg: [Otto Struve Telescope, McDonald Observatory<br/>Fort Davis, Texas<br/>June 2019](/img/VLA.JPEG) [Very Large Array<br/>Socorro County, New Mexico<br/>January 2020](/img/VLA.JPEG)
+bigimg:
+ - "/img/McDSunset0619.JPG" : "Otto Struve Telescope, McDonald Observatory, Fort Davis, TX"
+ - "/img/img/VLA.JPEG" : "Very Large Array, Socorro County, New Mexico"
 ---
 
 Hi! I'm a third-year astronomy and physics undergraduate at UT Austin. Here you can find some blog posts, personal info, science, slightly decent photographs, and maybe cooking recipes (one day). 
