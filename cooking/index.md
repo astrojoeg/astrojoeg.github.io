@@ -1,6 +1,7 @@
 ---
 layout: page
 title: First Post and Stuffed Mirlitons
+tags: [personal, blog, cooking]
 permalink: /2020/05/12/First-Post-and-Stuffed Mirlitons/
 gh-repo: astrojoeg/astrjoeg.github.io
 gh-badge: [star, fork, follow]
