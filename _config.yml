@@ -28,7 +28,9 @@ description: Joseph... but website form
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  #Blog:
+  #Research:
+  #About Me: "aboutme"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -80,12 +82,12 @@ social-network-links:
   facebook: astrojoeg
   github: astrojoeg
   twitter: astrojoeg
-#  reddit: yourname
- linkedin: astrojoeg
+# reddit: yourname
+  linkedin: astrojoeg
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
- instagram: astrojoeg
+  instagram: astrojoeg
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -96,7 +98,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   instagram: true
   linkedin: true
   
@@ -162,7 +164,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Austin"
+timezone: "America/Central"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
