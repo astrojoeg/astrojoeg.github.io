@@ -28,8 +28,8 @@ description: Joseph... but website form
 
 # List of links in the navigation bar
 navbar-links:
-  Cooking with Chef Joe: "cooking"
-  #Blog:
+  #Cooking with Chef Joe: "cooking"
+  Blog: "blog"
   #Research:
   #About Me: "aboutme"
   Resources:
