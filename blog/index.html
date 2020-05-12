@@ -27,7 +27,7 @@ As cooking is one of passions, I figured I should write up some recipes and post
 ---
 
 <div class="posts-list">
-  {% for post in paginator.cooking_posts %}
+  {% for post in paginator.posts %}
   <article>
     <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
 	    <h2 class="post-title">{{ post.title }}</h2>
