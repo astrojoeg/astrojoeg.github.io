@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joseph Guidry 
-subtitle: Pronounns: he/him/his | Astronomer in training
+subtitle: "Pronounns:" he/him/his | Astronomer in training
 bigimg:
  - "/img/McDSunset0619.JPG" : "Otto Struve Telescope, McDonald Observatory, Fort Davis, TX"
  - "/img/VLA.JPEG" : "Very Large Array, Socorro County, New Mexico"
