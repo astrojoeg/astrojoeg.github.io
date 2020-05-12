@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chef Joe's Recipes
+title: First Post and Stuffed Mirlitons
 permalink: /2020/05/12/First-Post-and-Stuffed Mirlitons/
 gh-repo: astrojoeg/astrjoeg.github.io
 gh-badge: [star, fork, follow]
