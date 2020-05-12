@@ -1,10 +1,7 @@
 ---
 layout: page
 title: First Post and Stuffed Mirlitons
-#tags: [personal, blog, cooking]
-#permalink: /2020/05/12/First-Post-and-Stuffed Mirlitons/
-#gh-repo: astrojoeg/astrjoeg.github.io
-#gh-badge: [star, fork, follow]
+
 bigimg:
  - "/img/McDSunset0619.JPG" : "Otto Struve Telescope, McDonald Observatory, Fort Davis, TX"
  - "/img/VLA.JPEG" : "Very Large Array, Socorro County, New Mexico"
@@ -26,8 +23,45 @@ Getting back into writing is something I have meant to do for ages now. I used t
 
 As cooking is one of passions, I figured I should write up some recipes and post the results as well. Hopefully after I accumulate enough of these posts I can update the banner images with some juicy plates.
 
-So, first up it's some stuffed mirlitons! I'm sticking to my creole and Cajun roots here by chopping up the Holy Trinity and Pope along with some shrimp, tomatoes, Worcestershire sauce, green onions, and parsely into some mirlitons. The mirlitons are a little disappointedly undersized, so I may have to toss some of the leftover stuffing into some rice. We shall see and I shall update once I get to it. :)
+---
 
-Feel free to leave your own comments!! I'm all ears to improving my cooking, but I also want to know if you tried your hand at my messes too!!
+<div class="posts-list">
+  {% for post in paginator.cooking_posts %}
+  <article>
+    <a class="post-preview" href="{{ post.url | prepend: site.baseurl }}">
+	    <h2 class="post-title">{{ post.title }}</h2>
+	
+	    {% if post.subtitle %}
+	    <h3 class="post-subtitle">
+	      {{ post.subtitle }}
+	    </h3>
+	    {% endif %}
+      <p class="post-meta">
+        Posted on {{ post.date | date: "%B %-d, %Y" }}
+      </p>
+
+      <div class="post-entry">
+        {{ post.content | truncatewords: 50 | strip_html | xml_escape}}
+        <span href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</span>
+      </div>
+    </a>  
+   </article>
+  {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
 
 
