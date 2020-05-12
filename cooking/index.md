@@ -1,6 +1,7 @@
 ---
 layout: page
 title: First Post and Stuffed Mirlitons
+css: "/css/index.css"
 
 bigimg:
  - "/img/McDSunset0619.JPG" : "Otto Struve Telescope, McDonald Observatory, Fort Davis, TX"
