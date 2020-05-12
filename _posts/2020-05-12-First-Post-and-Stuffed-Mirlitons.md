@@ -2,7 +2,8 @@
 layout: page
 title: First Post and Stuffed Mirlitons
 tags: [personal, blog, cooking]
-permalink: /2020/05/12/First-Post-and-Stuffed-Mirlitons/
+permalink: /blog/first-post-stuffed-mirlitons/
+date: 2020-05-12 16:00:00 -0400
 gh-repo: astrojoeg/astrjoeg.github.io
 gh-badge: [star, fork, follow]
 bigimg:
