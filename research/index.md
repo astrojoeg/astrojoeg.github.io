@@ -16,7 +16,7 @@ bigimg:
  - "/img/MtBonnell.JPG" : "Mt. Bonnell, Austin, TX"
 ---
 
-Here's my ORCiD: (https://orcid.org/0000-0001-9632-7347)
+Here's my [ORCiD](https://orcid.org/0000-0001-9632-7347)
 
 # I Spy Variability - Guidry et al. 2020, in prep
 --------------------------------------------
