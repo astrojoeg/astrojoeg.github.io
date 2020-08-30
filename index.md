@@ -17,10 +17,10 @@ bigimg:
  - "/img/MtBonnell.JPG" : "Mt. Bonnell, Austin, TX"
 ---
 
-Hi! I'm a third-year astronomy and physics undergraduate at UT Austin. Whenever I get to it, here you will be able to find some blog posts, personal info, my science!!, slightly decent photographs, and maybe cooking recipes. 
+Hi! I'm a fourth year astronomy and physics undergraduate at UT Austin. Whenever I get to it, here you will be able to find some blog posts, personal info, my science!!, slightly decent photographs, and maybe cooking recipes. 
 
 - I sometimes play trumpet too. You can find of thread of quarantine concerts on my [Twitter](https://twitter.com/astrojoeg/status/1241500030877544449?s=20).
 
 ### My story
 
-I was born in New Orleans, but quickly moved to Nacogdoches, TX, where I lived until I came to Austin. I like space. I now work on outbursting, pulsating hydrogen-atmosphere white dwarfs, which are cool, but I really want to try my hand at high-redshift galaxies, and basically every other field, and so I'll be exploring the high-z universe beginning fall 2020. Hopefully you'll see the fruits those endeavors reap in my repositories and in sci-comm in the near future. I have plans, I promise.
+I was born in New Orleans, but quickly moved to Nacogdoches, TX, where I lived until I came to Austin, and then back to Nac cause COVID :/ I like astronomy. I have spent the entirety of my undergraduate career studying variable white dwarfs, but in general I'm really interested in all time domain astrophysics. High z stuff seems pretty cool too. Whatever I end up working in graduate schoole (*fingers crossed*), hopefully you'll see the fruits those endeavors reap in my repositories and in sci-comm in the near future. I have plans, I promise.
