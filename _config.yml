@@ -30,7 +30,7 @@ description: Joseph... but website form
 navbar-links:
   #Cooking with Chef Joe: "cooking"
   Blog: "blog"
-  #Research:
+  Research: "research"
   #About Me: "aboutme"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
