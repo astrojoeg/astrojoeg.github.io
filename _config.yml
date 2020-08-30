@@ -83,6 +83,7 @@ social-network-links:
   facebook: astrojoeg
   github: astrojoeg
   twitter: astrojoeg
+  orcid: 0000-0001-9632-7347
 # reddit: yourname
   linkedin: astrojoeg
 #  xing: yourname
@@ -102,6 +103,7 @@ share-links-active:
   facebook: false
   instagram: true
   linkedin: true
+  orcid: true
   
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
