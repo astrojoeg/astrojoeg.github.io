@@ -6,4 +6,4 @@ bigimg:
  - "tmt_protest2.jpg" : "Maunakea Protests Against TMT NEED DATE AND COPYRIGHT"
 ---
 
-{% notebook ipython_widgets.ipynb %}
+{% notebook ipython_widgets.ipynb cells[1:] %}
