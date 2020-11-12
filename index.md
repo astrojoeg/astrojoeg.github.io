@@ -17,7 +17,9 @@ bigimg:
  - "/img/MtBonnell.JPG" : "Mt. Bonnell, Austin, TX"
 ---
 
-Hi! I'm a fourth year astronomy and physics undergraduate at UT Austin. Whenever I get to it, here you will be able to find some blog posts, personal info, my science!!, slightly decent photographs, and maybe cooking recipes. 
+Hi! I'm Joseph (he/him/his pronouns), a fourth year Astronomy and Physics undergraduate at UT Austin. I'll be graduating in May 2021, so I am currently appluing to astronomy PhD programs with anticipated start in fall 2021 so I can fulfull my childhood dream of becoming a professor of astornomy. In particular, I aspire to become what I call a twenty-first century astronomer: an astronomer who works to dismantle the oppressive and meritocratic structures of the Academy in order to make our discipline truly accessible, equitable, and supportive of Black and Indigenous astronomers especially. I also seek to abolish the imperialist tradition of Western Astronomy, astrocolonialism, in the name of Indigenous liberation. In terms of astronomical reserach, my current interests lie in discovering and characterizing white dwarf stars, particularly pulsating ZZ Cetis and white dwarfs that harbor dusty, metal-rich debris. In graduate school, I intend to pursue these interests by combing through big data transient sky surveys like the Zwicky Transient Facility and follow-up interesting objects at the telescope with photometry and spectroscopy.
+
+Anyway, this is here is my website! I have a lot of project ideas for this space that are works in progress, so whenever I get to it you will be able to find some blog posts, personal info, my science!!, slightly decent photographs, and maybe cooking recipes here. 
 
 - I sometimes play trumpet too. You can find of thread of quarantine concerts on my [Twitter](https://twitter.com/astrojoeg/status/1241500030877544449?s=20).
 
