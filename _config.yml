@@ -31,6 +31,7 @@ navbar-links:
   #Cooking with Chef Joe: "cooking"
   Blog: "blog"
   Research: "research"
+  CV: "CV.pdf"
   Astrocolonialism: "astrocolonialism"
   #About Me: "aboutme"
   Resources:
@@ -38,7 +39,7 @@ navbar-links:
     - Learn markdown: "http://www.markdowntutorial.com/"
     - The People's Guide to Abolition: https://level.medium.com/your-abolitionforthepeople-resource-guide-5d4134207ab7
   #Author's home: "http://deanattali.com"
-  CV: "CV.pdf"
+  
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
