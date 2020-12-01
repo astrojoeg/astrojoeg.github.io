@@ -19,9 +19,9 @@ bigimg:
 Here's my ORCiD: 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9632-7347" href="https://orcid.org/0000-0001-9632-7347" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9632-7347</a></div>
 
-# I Spy Variability - Guidry et al. 2020, in prep
+# I Spy Transits and Pulsations: Empirical Variability in White Dwarfs Using {\em Gaia} and the Zwicky Transient Facility - Guidry et al. (submitted)
 --------------------------------------------
-### Joseph Guidry, Zachary Vanderbosch, Mike Montgomery
+### Joseph Guidry, Zachary Vanderbosch, JJ Hermes, et al.
 
 Stay posted! Can't divulge any secrets just yet!
 
@@ -30,6 +30,6 @@ Stay posted! Can't divulge any secrets just yet!
 ### Joseph Guidry, Zachary Vanderbosch, JJ Hermes, Mike Montgomery
 
 Using Pan-STARRS multicolor photometry and *K2* photometry, we attempted to assess the changes of color as a result of outburst for two outbursting ZZ Ceti whit dwarfs.
-Aside from confirming the expectation that white dwarfs are bluer during all phases of phases of pulsations and in quiescence, definitive results have been found yet, but new Pan-STARRS pipelines may offer more insight in the future.
+Aside from confirming the expectation that white dwarfs are indeed bluer during at the peaks of pulsations than in troughs or in quiescence, definitive results have been found yet. It appears new Pan-STARRS pipelines offered by the Mikulski Archive have developed a work around that plagued our analysis.
 
 Take a look at this project's [poster](https://github.com/astrojoeg/astrojoeg.github.io/blob/master/posters/Color_Changes_Poster_URF20.pdf).
