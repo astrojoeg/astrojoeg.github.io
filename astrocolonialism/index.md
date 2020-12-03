@@ -6,7 +6,7 @@ bigimg:
  - "/img/tmt_protest2.jpg" : "Maunakea Protests Against TMT, July 2019, Caleb Jones/AP"
 ---
 
-Note: this webpage is a work-in-progress that I plan to update throughout the near future. I do not own any of the content displayed here. I am intending to compile a non-exhaustive set of research and further learning on these topics. You can also find an interactive python widget I wrote using matplotlib and a lesson plan on astrocolonialism I wrote as a student in UTS 101 in Fall 2020.
+*Disclaimer: this webpage is a work-in-progress that I plan to update throughout the near future. I do not own any of the content displayed here. I am by no means an expert on the discussed here. I am merely intending to compile a non-exhaustive set of research and further learning on these topics. You can also find an interactive python widget I wrote using matplotlib and a lesson plan on astrocolonialism I wrote as a student in UTS 101 in Fall 2020. This is intended to spread awareness of how we can talk about astrocolonialism and and protecting Indigenous sovereignty, especially in the classroom. In the future, I will try and present Indigenous lead and focused mutual aid efforts and collectives and more direct ways to defend Indigenous land and sovereignty.*
 
 ## It's time we stop teaching science under a revisionist lens, and this includes astronomy.
 
