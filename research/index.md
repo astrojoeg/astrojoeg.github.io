@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Astronomical Research 
+title: My Astronomy 
 bigimg:
  - "/img/McDSunset0619.JPG" : "Otto Struve Telescope, McDonald Observatory, Fort Davis, TX"
  - "/img/VLA.JPEG" : "Very Large Array, Socorro County, New Mexico"
@@ -20,7 +20,7 @@ Here's my ORCiD:
 
 ## First-authored Refereed Publications:
 --------------------------------------------
-### Joseph Guidry, Zachary Vanderbosch, JJ Hermes, et al. (submitted to ApJ, [arXiv:2012.00035](https://arxiv.org/abs/2012.00035)) - *I Spy Transits and Pulsations: Empirical Variability in White Dwarfs Using *Gaia* and the Zwicky Transient Facility*
+### Joseph Guidry, Zachary Vanderbosch, JJ Hermes, et al. (submitted to ApJ, [arXiv:2012.00035](https://arxiv.org/abs/2012.00035)) - *I Spy Transits and Pulsations: Empirical Variability in White Dwarfs Using Gaia and the Zwicky Transient Facility*
 
 In our paper we use anomalous levels of excess scatter in *Gaia* DR2 and the Zwicky Transient Facility photometry as a proxy for variability. We use our variability metrics to rank ~12,100 white dwarf stars centered on a parameter space known as the ZZ Ceti instability strip, where hydrogen-atmosphere (DA) white dwarfs are observed to pulsate. As a proof of concept, we investigated the top 1% (121 white dwarfs) ranked by our metrics, recovering 39 white dwarfs previously known to "go bump in the night." Our follow-up high-speed photometry from the McDonald Observatory 2.1m Telescope confirmed variability in 33 out of 33 observed candidates from the top 1%, further establishing our efficacy and sensitivty. Most excitingly, in the top 1% we recovered the two white dwarfs previously known to host transiting planetary debris (WD 1145+017 - top right, and ZTF J0139+5245, top left) and find evidence in our follow-up photometry (right) and ZTF light curves (left) for 5 more systems demonstrating transits on varying timescales. We obtained indetifying spectra for three of systems, ruling out variability indicative of a cataclysmic variable, while SDSS J0107+2107 and SBSS 1232+536 exhibited metal pollution in prior SDSS spectra. These objects should be closesly monitored to confirm their candicacy and probe for substrcutres and repeating patterns in observations of future transits. Lastly, we cofirm 29 new ZZ Ceti pulsators, find possible the closest known polar at ~56 pc away (ZTF J0146+4914), and one possible spotted-magnetic variable white dwarf (ZTF J0534+7707). Hope you enjoy the results!
 
