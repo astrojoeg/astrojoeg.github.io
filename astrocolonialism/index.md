@@ -40,7 +40,7 @@ More general resources on Astrocolonialism:
 
 First we set up a function which takes some arguments and plots something:
 
-{% include interactive_test.html %}
+{% include interactive_test.ipynb %}
 
 That's all there is to it!
 
