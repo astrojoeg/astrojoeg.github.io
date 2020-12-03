@@ -1,3 +1,11 @@
+---
+layout: page
+title: Astrocolonialism 
+subtitle: UTS 101 Final Project
+bigimg:
+ - "tmt_protest2.jpg" : "Maunakea Protests Against TMT NEED DATE AND COPYRIGHT"
+---
+
 Note: this webpage is a work-in-progress that I plan to update throughout the near future. I do not own any of the content displayed here. I am intending to compile a non-exhaustive set of research and further learning on these topics. You can also find an interactive python widget I wrote using matplotlib and a lesson plan on astrocolonialism I wrote as a student in UTS 101 in Fall 2020.
 
 ## It's time we stop teaching science under a revisionist lens, and this includes astronomy.
