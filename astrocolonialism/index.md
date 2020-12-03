@@ -27,6 +27,10 @@ Furthermore, we know that Indigenous people were accomplished astronomers and in
 Here is some more reading on the contributions of Indigenous astronomers:
 * [Additional Arguments that Aboriginal Australians Observed Variable Stars](https://astrobites.org/2018/10/26/additional-arguments-that-aboriginal-australians-observed-variable-stars/)
 
+General resources on Indigenous people on Turtle Island (North America):
+* [An Indigenous Peoples’ History of the United States](https://www.zinnedproject.org/materials/indigenous-peoples-history-of-the-us/)
+* [Native Land Map](https://native-land.ca/)
+
 ## Below you'll find a python widget meant to help lend context to just how big these telescopes are:
 
 
