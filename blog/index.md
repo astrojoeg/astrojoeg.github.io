@@ -15,4 +15,4 @@ bigimg:
  - "/img/MtBonnell.JPG" : "Mt. Bonnell, Austin, TX"
 ---
 
-Trying to make a blog but it's hard for some reasons that my brain does not understand at the moment. Stay tune tho I'll get it working one day. Want to put some cooking recipes here.
+Trying to make a blog, but it's hard for some reasons that my brain does not understand at the moment. Stay tuned tho!!!! I'll get it working one day. Want to put some cooking recipes here and more random thoughts.
