@@ -32,7 +32,7 @@ navbar-links:
   Blog: "blog"
   Research: "research"
   CV: "CV.pdf"
-  Astrocolonialism: "astrocolonialism"
+  # Astrocolonialism: "astrocolonialism"
   #About Me: "aboutme"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
