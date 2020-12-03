@@ -82,9 +82,9 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  # rss: true
   email: "josephguidry@utexas.edu"
-  facebook: astrojoeg
+  # facebook: astrojoeg
   github: astrojoeg
   twitter: astrojoeg
 #   orcid: 0000-0001-9632-7347
@@ -104,7 +104,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  # facebook: false
   instagram: true
   linkedin: true
   orcid: true
