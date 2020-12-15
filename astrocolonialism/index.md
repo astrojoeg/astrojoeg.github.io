@@ -15,6 +15,11 @@ Astronomy has advanced humanity's knowledge of the Universe in immeasurable ways
 
 In the Americas and Hawai‘i, these are lands that have been stolen from Indigenous peoples. Most, if not all, of these sites are sacred lands. The most tragic example of this [Maunakea](https://en.wikipedia.org/wiki/Mauna_Kea), home to 12 astronomical observatories with one expecially enormous planned for construction: the Thirty Meter Telescope. Such a telescope is apart of a new emergence of extremely large modern observatories, tripling the primary mirror's size of 10 meter class observatories to 30 meters. ***Content warning: r\*pe*** The construction of yet another observatory, regardless of size, has been likened to ["raping"](https://enewspaper.latimes.com/infinity/article_share.aspx?guid=3dbb9d14-cfd3-4e55-99cf-ed717c203a19) the otherwise pure, sacred Mauna by Native Hawaiians, the Kānaka Maoli people.
 
+It is unequivocal: astronomy has perpetuated and benefitted from settler colonialism and white supremacy (e.g., [Prescod-Weinstein et al. 2019](https://arxiv.org/abs/2001.00674)). It is incumbent upon astronoemrs, and teachers too, to reject and denounce this tradition and to make our colleagues and neighbors aware of its devastation to Indigenous peoples. Further, we must involve Indigenous peoples in how we rethink and teach astronomy going forward. For astronomers, the is perhaps no better way to make impactful change than by rethinking how we fund our science. Please condsider the specific recommendations proposed in the [Venkatesan et al. 2020](https://arxiv.org/abs/1908.02822) Astro2020 white paper.
+
+Furthermore, we know that Indigenous people were accomplished astronomers and scientists (e.g., [Venkatesan et al. 2020](https://arxiv.org/abs/1908.02822)), and yet their achievments and contributions rarely, if ever, make their way onto syllabi. As teachers, we must work to incorporate adequate sociocultural contexts into our lessons. We need to explain the history of oppression to our students. We need to explain our history is whitewashed. And we need to amplify oppressed voices, both to protect Indigenous peoples fight for sovereignty and aid in the liberation of Black people, but also to give all of our students role models. Dr. Megan Bang, an Ojibwe sociologist and education scholar at the University of Washington, is an expert on bringing Indigenous epistemology into the classroom. Teachers should study these presentation slides she prepared to learn how to transform their science curricula to incorporate and celebrate these epistemologies and perspectives:
+* Dr. Megan Bang: [Transformative Science Education for and with Indigenous Communities?](https://www.aaas.org/sites/default/files/Bang.pdf)
+
 For further reading on the Hawaiians' struggle against TMT visit the above link and these resources:
 * [Astrobites piece - *Maunakea, Western Astronomy, and Hawai'i*](https://astrobites.org/2019/08/02/maunakea-western-astronomy-and-hawaii/)
 * A short film by Puuhonua Puuhuluhulu documenting the July protests and stuggles against the TMT's construction: [Like a Mighty Wave: A Maunakea Film](https://www.youtube.com/watch?v=4J3ZCzHMMPQ&feature=emb_logo)
@@ -23,8 +28,6 @@ More general resources on Astrocolonialism:
 * Astrcolonialism in the Southwest: [The Tohono O’odham people and Kitt Peak National Observatory](https://astrobites.org/2019/08/16/a-tale-of-two-observatories/)
 * [Astronomical Observatories and Indigenous Communities in Chile](https://astrobites.org/2019/09/10/astronomical-observatories-and-indigenous-communities-in-chile/)
 
-Furthermore, we know that Indigenous people were accomplished astronomers and intellectuals, but why do their contributions never manifest in our classrooms? As teachers, we must work to incorporate adequate sociocultural contexts into our lessons. We need to explain the history of oppression to our students. We need to explain our history is whitewashed. And we need to amplify oppressed voices, both to protect Indigenous peoples fight for sovereignty and aid in the liberation of Black people, but also to give all of our students role models.
-
 Here is some more reading on the contributions of Indigenous astronomers:
 * [Additional Arguments that Aboriginal Australians Observed Variable Stars](https://astrobites.org/2018/10/26/additional-arguments-that-aboriginal-australians-observed-variable-stars/)
 
@@ -32,8 +35,12 @@ General resources on Indigenous people on Turtle Island (North America):
 * [An Indigenous Peoples’ History of the United States](https://www.zinnedproject.org/materials/indigenous-peoples-history-of-the-us/)
 * [Native Land Map](https://native-land.ca/)
 
-## Below you'll find a python widget meant to help lend context to just how big these telescopes are:
+Industrialized astronomy and aeronautics pose threats to Indigenous livihoods as well, as the explosion of low-earth orbit satellites is drowning out the Heavens. For further reading see:
+* [Aparna Venkatesan et al. 2020 - The impact of satellite constellations on space as an ancestral global commons](https://www.nature.com/articles/s41550-020-01238-3)
 
+----------------------------------------------------------------------------------------------------
+
+## Below you'll find a python widget meant to help lend context to just how big these telescopes are:
 
 ```python
 import matplotlib.pyplot as plt
@@ -78,6 +85,8 @@ Note: much of the above code was adapated from an [example made available by mat
 
 ## So how can we bring this to the classroom?
 
-Anyway that respects the sovereignty of Indigenous peoples. I attempted to do this use the lesson I wrote below and taught to a class of 5th graders during my time as a student in the class UTS 101 at UT Austin, the first course in the UTeach program. Feel free to take the lesson and mold it to your student's needs and interests:
+Anyway that respects the sovereignty of Indigenous peoples. I attempted to do this in the lesson shared below. I wrote and taught this lesson on astrocolonialism (focused to the TMT July 2019 protests) to a class of 5th graders during my time as a student in the class UTS 101 at UT Austin, the first course in the UTeach program. Feel free to take the lesson and mold it to your student's needs and interests:
 * [Slide deck](https://github.com/astrojoeg/astrojoeg.github.io/blob/master/astrocolonialism/astrocolonialism_lesson.pdf)
 * [5E Planning sheet](https://github.com/astrojoeg/astrojoeg.github.io/blob/master/astrocolonialism/5E_astrocolonialism.pdf)
+
+If this inspired a lesson you taught, if you consent to it, could you please share the lesson with me so I could publish it here (you will be credited, of course).
