@@ -1,12 +1,13 @@
 ---
 layout: page
 title: Astrocolonialism 
-subtitle: UTS 101 Final Project
 bigimg:
  - "/img/tmt_protest2.jpg" : "Maunakea Protests Against TMT, July 2019, Caleb Jones/AP"
 ---
 
-*Disclaimer: this webpage is a work-in-progress that I plan to update throughout the near future. I do not own any of the content displayed here. I am by no means an expert on the discussed here. I am merely intending to compile a non-exhaustive set of research and further learning on these topics to especially serve as a resource for teachers to bring these ideas into the classroom. You can also find an interactive python widget I wrote using matplotlib and a lesson plan on astrocolonialism I wrote as a student in UTS 101 in Fall 2020. Again, this page is intended to spread awareness of how we can talk about astrocolonialism and and protecting Indigenous sovereignty, especially in the classroom. In the future, I will try and present Indigenous lead and focused mutual aid efforts and collectives and more direct ways to defend Indigenous land and sovereignty.*
+*Disclaimer: this webpage is a work-in-progress that I plan to cultivate throughout the forseeable future. It is the byproduct of final projects from the UTS 101 and NSC 109 courses at UT Austin I was enrolled in during the fall 2020 semester. I do not own any of the content displayed here, outside of the python script and lesson plan I wrote. I am a white, cisgender, settler and an astronomer. As an astronomer, I have made use of telescopes on Indigenous lands. This project is merely intended to shed light on these issues and offer solutions for how to bring struggles for Indigenous sovereignty and liberation into the classroom. I am attempting to present this in the most appropriate and respectful manner possile, I am by no means an expert on the discussed here. If you have any comments regarding the material discussed here, please correspond with me at josephguidry[at]utexas[dot]edu.*
+
+Here you will find a non-exhaustive set of reading and further learning on these topics. You can also find an interactive python widget I wrote using matplotlib and a lesson plan on astrocolonialism I wrote as a student in UTS 101 in Fall 2020 (it is not functional in the webpage just yet, sorry!). Again, this page is intended to spread awareness of how we can talk about astrocolonialism and and protecting Indigenous sovereignty, especially in the classroom. My main priority for the future is to curate a list of Indigenous-led and focused mutual aid efforts that serve as direct vehicles to defending Indigenous land and sovereignty.
 
 ## It's time we stop teaching science under a revisionist lens, and this includes astronomy.
 
