@@ -40,7 +40,7 @@ Industrialized astronomy and aeronautics pose threats to Indigenous livihoods as
 
 ----------------------------------------------------------------------------------------------------
 
-## Below you'll find a python widget meant to help lend context to just how big these telescopes are:
+## Below you'll find a python widget meant to help lend context to just how big these telescopes are (*work-in-progress*):
 
 ```python
 import matplotlib.pyplot as plt
