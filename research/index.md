@@ -32,11 +32,14 @@ In our paper we use anomalous levels of excess scatter in *Gaia* DR2 and the Zwi
 
 ## Refereed Publications as Contributing Author:
 --------------------------------------------
-### Farihi, J., Hermes, J.~J., Marsh, T. R., ..., **Guidry, J. A.** (author 6/14), et al. 2022, *MNRAS*, [511, 1647](https://ui.adsabs.harvard.edu/abs/2021arXiv210906183F/abstract). - *Relentless and complex transits from a planetesimal debris disc.*
+### Farihi, J., Hermes, J. J., Marsh, T. R., ..., *Guidry, J. A.* (author 6/14), et al. 2022, *MNRAS*, [511, 1647](https://ui.adsabs.harvard.edu/abs/2021arXiv210906183F/abstract).
+### Relentless and complex transits from a planetesimal debris disc.*
 
-### Vanderbosch, Z. P., Rappaport, S., **Guidry, J. A.**, et al. 2021, *ApJ*, [917, 41](https://ui.adsabs.harvard.edu/abs/2021ApJ...917...41V/abstract). - *Recurring Planetary Debris Transits and Circumstellar Gas around White Dwarf ZTF J0328-1219.*
+### Vanderbosch, Z. P., Rappaport, S., *Guidry, J. A.*, et al. 2021, *ApJ*, [917, 41](https://ui.adsabs.harvard.edu/abs/2021ApJ...917...41V/abstract).
+### *Recurring Planetary Debris Transits and Circumstellar Gas around White Dwarf ZTF J0328-1219.*
 
-### Kupfer, T., Prince, T. A., van Roestel, J., ..., **Guidry, J. A.** (author 18/21), et al. 2021, *MNRAS*, [505, 1254](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1254K/abstract). - *Year 1 of the ZTF high-cadence Galactic plane survey: strategy, goals, and early results on new single-mode hot subdwarf B-star pulsators.*
+### Kupfer, T., Prince, T. A., van Roestel, J., ..., *Guidry, J. A.* (author 18/21), et al. 2021, *MNRAS*, [505, 1254](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1254K/abstract).
+### *Year 1 of the ZTF high-cadence Galactic plane survey: strategy, goals, and early results on new single-mode hot subdwarf B-star pulsators.*
 
 
 ## Research Posters:
