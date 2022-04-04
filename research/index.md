@@ -15,16 +15,28 @@ bigimg:
  - "/img/MtBonnell.JPG" : "Mt. Bonnell, Austin, TX"
 ---
 
-Here's my ORCiD: 
+My astrophysical research interests are broadly focus on white dwarf stars, the final chapter of the lives for about 97% of stars in the Universe, including our own Sun in T-minus 5 billion years. My greatest interest in studying these ancient, retired stars is to learn about the planetary systems they harbor. In particular, I am looking for the carcasses of extrasolar asteroid and rocky planets manifest as clouds of debris orbiting very close to the star. I study how the planetary debris orbits around the star to learn about the dynamics of these remnant planetary systems and take an inventory of the chemical species within the debris to test the geochemical similarity between these rocks and those in our Solar System. 
+
+Here I highlight the published research projects I have contributed to, including peer-reviewed journal articles and research posters.
+
+My ORCiD is available at: 
 <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-9632-7347" href="https://orcid.org/0000-0001-9632-7347" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-9632-7347</a></div>
 
 ## First-authored Refereed Publications:
 --------------------------------------------
-### Joseph Guidry, Zachary Vanderbosch, JJ Hermes, et al. (submitted to ApJ, [arXiv:2012.00035](https://arxiv.org/abs/2012.00035)) - *I Spy Transits and Pulsations: Empirical Variability in White Dwarfs Using Gaia and the Zwicky Transient Facility*
+### Joseph Guidry, Zachary Vanderbosch, JJ Hermes, et al. 2021, *ApJ*, [912, 125](https://ui.adsabs.harvard.edu/abs/2021ApJ...912..125G/abstract) - *I Spy Transits and Pulsations: Empirical Variability in White Dwarfs Using Gaia and the Zwicky Transient Facility*
 
 In our paper we use anomalous levels of excess scatter in *Gaia* DR2 and the Zwicky Transient Facility photometry as a proxy for variability. We use our variability metrics to rank ~12,100 white dwarf stars centered on a parameter space known as the ZZ Ceti instability strip, where hydrogen-atmosphere (DA) white dwarfs are observed to pulsate. As a proof of concept, we investigated the top 1% (121 white dwarfs) ranked by our metrics, recovering 39 white dwarfs previously known to "go bump in the night." Our follow-up high-speed photometry from the McDonald Observatory 2.1m Telescope confirmed variability in 33 out of 33 observed candidates from the top 1%, further establishing our efficacy and sensitivty. Most excitingly, in the top 1% we recovered the two white dwarfs previously known to host transiting planetary debris (WD 1145+017 - top right, and ZTF J0139+5245, top left) and find evidence in our follow-up photometry (right) and ZTF light curves (left) for 5 more systems demonstrating transits on varying timescales. We obtained indetifying spectra for three of systems, ruling out variability indicative of a cataclysmic variable, while SDSS J0107+2107 and SBSS 1232+536 exhibited metal pollution in prior SDSS spectra. These objects should be closesly monitored to confirm their candicacy and probe for substrcutres and repeating patterns in observations of future transits. Lastly, we cofirm 29 new ZZ Ceti pulsators, find possible the closest known polar at ~56 pc away (ZTF J0146+4914), and one possible spotted-magnetic variable white dwarf (ZTF J0534+7707). Hope you enjoy the results!
 
 ![Transiting Debris Systems](/img/transit_cand_color_large.png)
+
+## Refereed Publications as Contributing Author:
+--------------------------------------------
+### Farihi, J., Hermes, J.~J., Marsh, T. R., ..., **Guidry, J. A.** (author 6/14), et al. 2022, *MNRAS*, [511, 1647](https://ui.adsabs.harvard.edu/abs/2021arXiv210906183F/abstract). - *Relentless and complex transits from a planetesimal debris disc.*
+
+### Vanderbosch, Z. P., Rappaport, S., **Guidry, J. A.**, et al. 2021, *ApJ*, [917, 41](https://ui.adsabs.harvard.edu/abs/2021ApJ...917...41V/abstract). - *Recurring Planetary Debris Transits and Circumstellar Gas around White Dwarf ZTF J0328-1219.*
+
+### Kupfer, T., Prince, T. A., van Roestel, J., ..., **Guidry, J. A.** (author 18/21), et al. 2021, *MNRAS*, [505, 1254](https://ui.adsabs.harvard.edu/abs/2021MNRAS.505.1254K/abstract). - *Year 1 of the ZTF high-cadence Galactic plane survey: strategy, goals, and early results on new single-mode hot subdwarf B-star pulsators.*
 
 
 ## Research Posters:
