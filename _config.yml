@@ -107,8 +107,8 @@ social-network-links:
 share-links-active:
   twitter: true
   # facebook: false
-  instagram: true
-  linkedin: true
+  #instagram: true
+  #linkedin: true
   orcid: true
   
 # How to display the link to the website in the footer
