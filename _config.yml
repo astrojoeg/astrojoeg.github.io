@@ -29,17 +29,17 @@ description: Joseph... but website form
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  CV: "CV.pdf"
+  CV: "CV_Dec2025.pdf"
   #Cooking with Chef Joe: "cooking"
   Blog: "blog"
-  Astrocolonialism: "astrocolonialism"
+  #Astrocolonialism: "astrocolonialism"
   #About Me: "aboutme"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Fellowship and Application Writing Resources: http://www.loganpearcescience.com/resources.html
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - The People's Guide to Abolition: https://level.medium.com/your-abolitionforthepeople-resource-guide-5d4134207ab7
-    - Mutual Aid Hub: https://www.mutualaidhub.org/
+    #- The People's Guide to Abolition: https://level.medium.com/your-abolitionforthepeople-resource-guide-5d4134207ab7
+    #- Mutual Aid Hub: https://www.mutualaidhub.org/
   #Author's home: "http://deanattali.com"
   
 
@@ -86,16 +86,13 @@ author:
 social-network-links:
   # rss: true
   email: "jaguidry@bu.edu"
-  # facebook: astrojoeg
   github: astrojoeg
-  twitter: astrojoeg
 #   orcid: 0000-0001-9632-7347
 # reddit: yourname
   linkedin: astrojoeg
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#   instagram: astrojoeg
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -105,7 +102,7 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  #twitter: true
   # facebook: false
   #instagram: true
   #linkedin: true
